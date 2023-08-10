@@ -145,7 +145,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "breno.godpin@gmail.com",
     YOUR_FONE: "+1 (226) 503-9642",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    description: "I'll be more than happy to know what you're thinking about. Tell me!. ",
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",
     YOUR_USER_ID: "user_id",
