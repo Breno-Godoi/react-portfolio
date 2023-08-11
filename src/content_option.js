@@ -76,9 +76,15 @@ const services = [{
     },
 ];
 
-const dataportfolio = [{
+const dataportfolio = [
+    {
+        img: "https://github.com/Breno-Godoi/notes-app/raw/main/Captura%20de%20tela%202023-08-11%20100822.png",
+        description: "Notes App",
+        link: "https://breno-notes-app.onrender.com/",
+    },
+    {
         img: "https://user-images.githubusercontent.com/103461863/259619368-503e9b09-dd50-4192-8bc4-e1f553e5c098.png",
-        description: "MLB-Games",
+        description: "MLB Games",
         link: "https://breno-godoi.github.io/MLB-Games/",
     },
     {
