@@ -16,7 +16,7 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "abit about my self",
+    title: "A bit about myself",
     aboutme: "With a decade of experience in manufacturing and technology companies altogether, I have been active in both technical and commercial areas merging my background in manufacturing and engineering, plus expertise in software, to achieve the flexibility needed to communicate heartily with clients and teams, providing clear and precise solutions. Passionate about technology and new challenges, always engaged in exploring the full potential of emerging tools in the market. Adept with the idea of bringing different people and disciplines together to solve issues and advance strategies. Continuous Learner.",
 };
 const worktimeline = [{
