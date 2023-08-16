@@ -8,8 +8,9 @@ const introdata = {
     title: "I’m Breno. you know... almost Bruno... but Breno!",
     animated: {
         first: "I love technology",
-        second: "I code whatever I think interesting and useful",
-        third: "I will always be on top of new tech, until is no more...",
+        second: "I code whatever I find interesting or useful",
+        third: "I am a problem solver, so I guess I like problems :/",
+        fourth: "I will always be on top of new tech, until is no more...",
     },
     description: "A passionate web developer with a strong industrial software and processes background. I thrive on learning new tools and technologies and using them to build innovative solutions for the ever-evolving technology industry.",
     your_img_url: "https://avatars.githubusercontent.com/u/103461863?v=4",
@@ -151,7 +152,7 @@ const dataportfolio = [
 const contactConfig = {
     YOUR_EMAIL: "breno.godpin@gmail.com",
     YOUR_FONE: "+1 (226) 503-9642",
-    description: "I'll be more than happy to know what you're thinking about. Tell me!. ",
+    description: "I'll be more than happy to know what you're thinking about. Tell me! ",
     YOUR_SERVICE_ID: "service_up5cups",
     YOUR_TEMPLATE_ID: "template_xzyjsjj",
     YOUR_USER_ID: "jC8xGtul419wkLHM2",
