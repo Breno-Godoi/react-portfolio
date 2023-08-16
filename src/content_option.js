@@ -21,7 +21,7 @@ const dataabout = {
     aboutme: "With a decade of experience in manufacturing and technology companies altogether, I have been active in both technical and commercial areas merging my background in manufacturing and engineering, plus expertise in software, to achieve the flexibility needed to communicate heartily with clients and teams, providing clear and precise solutions. Passionate about technology and new challenges, always engaged in exploring the full potential of emerging tools in the market. Adept with the idea of bringing different people and disciplines together to solve issues and advance strategies. Continuous Learner.",
 };
 const worktimeline = [{
-        jobtitle: "Sales Development",
+        jobtitle: "Sales Development Specialist",
         where: "SNAP Automation",
         date: "2023",
     },
@@ -65,7 +65,7 @@ const skills = [{
 
 const services = [{
         title: "Frontend Development",
-        description: "Elevate your web presence with cutting-edge MERN Stack Frontend Development Service. Harnessing the power of MongoDB, Express.js, React, and Node.js, we craft dynamic and responsive user interfaces that captivate, engage, and convert. I will bring your vision to life, seamlessly blending modern design with robust functionality. Elevate your user experience and stay ahead in the digital landscape.",
+        description: "Elevate your web presence with cutting-edge MERN Stack Frontend Development Service. Harnessing the power of MongoDB, Express.js, React, and Node.js, I can craft dynamic and responsive user interfaces that captivate, engage, and convert. I will bring your vision to life, seamlessly blending modern design with robust functionality. Elevate your user experience and stay ahead in the digital landscape.",
     },
     {
         title: "UI & UX Design",

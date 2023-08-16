@@ -30,7 +30,7 @@ button.btn.ac_btn:hover {
 }
 
 .form-control::placeholder {
-    color: rgb(5, 201, 106);
+    color: var(--text-color-3);
     opacity: 1;
 }
 
