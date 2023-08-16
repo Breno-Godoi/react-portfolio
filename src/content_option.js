@@ -152,8 +152,8 @@ const contactConfig = {
     YOUR_EMAIL: "breno.godpin@gmail.com",
     YOUR_FONE: "+1 (226) 503-9642",
     description: "I'll be more than happy to know what you're thinking about. Tell me!. ",
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
+    YOUR_SERVICE_ID: "sjC8xGtul419wkLHM2",
+    YOUR_TEMPLATE_ID: "template_xzyjsjj",
     YOUR_USER_ID: "user_id",
 };
 
